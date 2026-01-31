@@ -1,0 +1,10 @@
+{
+  "[css]": {
+    "editor.suggest.enabled": true,
+    "editor.quickSuggestions": {
+      "other": true,
+      "comments": false,
+      "strings": false
+    }
+  }
+}
